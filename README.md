@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CODEatlasind
 - 👀 I’m interested in ...full stack development,AI,ML(Computer Vision),data science
 - 🌱 I’m currently learning ...web development
-- 📫 How to reach me ...shashankshekharsn042@gmail.com
+- 📫 How to reach me ...
 - 💞️ I’m looking to collaborate on ...computer_vision project.
 
 <!---
