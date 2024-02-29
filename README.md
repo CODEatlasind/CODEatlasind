@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi there, I’m @CODEatlasind
-Ardent Learner with the ambition to part-take in AI, ML, Computer Vision, and data science projects
-The current learning curve includes front-end web development
+Hi there, I’m @CODEatlasind  
+Ardent Learner with the ambition to part-take in AI, ML, Computer Vision, and data science projects  
+The current learning curve includes front-end web development  
 I’m looking for amazing computer-vision projects to contribute to.
 
 ## 🌐 Socials:
